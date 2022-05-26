@@ -1,0 +1,1 @@
+Union (Rect (10,20) (30,50)) (Intersection (Circle (20,25) 5) (Rect (15,15) (20,25)))
